@@ -6,7 +6,6 @@ const Product = ({ product }) => {
   console.log(product);
   return (
     <>
-   
     <MDBCol>
       <MDBCard style={{ width: "25rem"}}>
         <MDBCardImage className="img-fluid" src={product.provider.logoUrl} waves />
@@ -21,11 +20,6 @@ const Product = ({ product }) => {
         </MDBCardBody>
       </MDBCard>
     </MDBCol>
-
-
-
-
-
     </>
   );
 };

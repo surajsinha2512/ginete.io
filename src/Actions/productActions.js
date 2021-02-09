@@ -3,7 +3,7 @@ import {
   PRODUCT_LIST_SUCCESS,
   PRODUCT_LIST_FAIL,
 } from "../constants/productConstants";
-
+  
 export const listProducts = () => async (dispatch) => {
   try {
     dispatch({ type: PRODUCT_LIST_REQUEST });
@@ -14,6 +14,7 @@ export const listProducts = () => async (dispatch) => {
     const data=await response.json();
     const offer=data.offers;
     // console.log(offer);
+    console.log(data)
     dispatch({
       type: PRODUCT_LIST_SUCCESS,
       payload: offer,
