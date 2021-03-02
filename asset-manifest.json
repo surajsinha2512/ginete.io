@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ginete.io/static/css/main.162a81b7.chunk.css",
+    "main.js": "/ginete.io/static/js/main.0eb7ed78.chunk.js",
+    "main.js.map": "/ginete.io/static/js/main.0eb7ed78.chunk.js.map",
+    "runtime-main.js": "/ginete.io/static/js/runtime-main.669f87b0.js",
+    "runtime-main.js.map": "/ginete.io/static/js/runtime-main.669f87b0.js.map",
+    "static/js/2.8b08240e.chunk.js": "/ginete.io/static/js/2.8b08240e.chunk.js",
+    "static/js/2.8b08240e.chunk.js.map": "/ginete.io/static/js/2.8b08240e.chunk.js.map",
+    "index.html": "/ginete.io/index.html",
+    "static/css/main.162a81b7.chunk.css.map": "/ginete.io/static/css/main.162a81b7.chunk.css.map",
+    "static/js/2.8b08240e.chunk.js.LICENSE.txt": "/ginete.io/static/js/2.8b08240e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.669f87b0.js",
+    "static/js/2.8b08240e.chunk.js",
+    "static/css/main.162a81b7.chunk.css",
+    "static/js/main.0eb7ed78.chunk.js"
+  ]
+}
